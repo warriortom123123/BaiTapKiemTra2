@@ -1,5 +1,3 @@
 <form action="login.php" method="post">
-    ${username}: <input type="text" name="username"><br>
-    ${password}: <input type="password" name="password"><br>
-    <input type="submit" value="login">
-</form>
+    ${tendangnhap}: <input type="text" name="tendangnhap"><br>
+    ${matkhau}: <input type="password" name="matkhau"><br>
